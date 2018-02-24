@@ -19,7 +19,9 @@ Once the zip code is entered, the current weather will be displayed.
 
 3. Clean and rebuild project
 
-4. Run with Android emulator or ADB(Android Debug Bridge)
+4. Add openweathermap.org API key to WeatherActivity.java
+
+5. Run with Android emulator or ADB(Android Debug Bridge)
 
 ## Todo
 
